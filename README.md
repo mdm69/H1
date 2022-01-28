@@ -1,4 +1,6 @@
-Homework One Requirements
+Homework One 
+
+Requirements
 The purpose of this homework is to help you warm up with HTML and CSS.
 Imaging that you are a blogger and you constantly publish insights 
 regarding tech companies. Your website has a subscription function that 
